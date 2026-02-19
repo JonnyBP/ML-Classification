@@ -10,9 +10,4 @@ wheels/
 .venv
 .vscode/
 
-Eval.md
-Metodos.md
-Rev.md
 docs/
-models/
-Simple_models/
