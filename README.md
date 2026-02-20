@@ -1,4 +1,4 @@
-# 🤖 Clasificación con Machine Learning — 8 Modelos Explicados
+# 🤖 Clasificación con Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python\&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-Array-013243?logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 
